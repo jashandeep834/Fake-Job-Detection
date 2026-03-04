@@ -60,5 +60,3 @@ The dataset contains job postings with information such as:
 
 The target variable identifies whether a job posting is fraudulent.
 
-
-## Project Structure
